@@ -1,0 +1,20 @@
+🧪 Exercice 1 — reverse
+Objectif
+
+Écrire un programme qui inverse une chaîne passée en argument.
+
+Exécution attendue
+./reverse Bonjour
+
+Sortie attendue
+ruojnoB
+
+Contraintes
+
+Utiliser argc / argv
+
+Interdiction d’utiliser strrev (non standard)
+
+Gérer erreur si pas d’argument :
+
+Usage: ./reverse <string>
