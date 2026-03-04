@@ -1,0 +1,16 @@
+🧪 Exercice 2 — count
+Objectif
+
+Compter le nombre de voyelles dans la chaîne.
+
+Exécution
+./count "Hello World"
+Sortie attendue
+3
+Contraintes
+
+Gérer majuscules/minuscules
+
+Voyelles : a e i o u y
+
+Si pas d’argument → message d’erreur
