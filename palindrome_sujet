@@ -1,0 +1,17 @@
+🧪 Exercice 3 — palindrome
+Objectif
+
+Vérifier si la chaîne est un palindrome.
+
+Exécution
+./palindrome radar
+Sortie attendue
+YES
+./palindrome hello
+Sortie
+NO
+Contraintes
+
+Ignorer la casse
+
+Ne pas utiliser de librairie externe
